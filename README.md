@@ -1,5 +1,7 @@
 # qp
 
+[![Join the chat at https://gitter.im/simontabor/qp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/simontabor/qp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Efficient queue manager/processor in node.js.
 
 Has a server/admin interface, available at [qp-server](https://github.com/simontabor/qp-server).
